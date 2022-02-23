@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on [OpenKCC community](https://github.com/OpenKCC)
 - 🌱 I’m currently learning Logic programming and related theories.
-- 👯 I’m looking to collaborate on [Awesome Data community](https://github.com/awesomedata)
+- 👯 I’m looking to collaborate on [Awesome Data community](https://github.com/awesomedata), [Slack channel](https://awesomedataworld.slack.com)
 - 💬 Ask me about topics on data mining, behavior informatics, several programming lang.
 - 📫 How to reach me: chenxm35@gmail.com
 - ⚡ Fun fact: deeply thinking about and engineering on general knowledge computing theory.
