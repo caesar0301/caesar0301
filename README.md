@@ -16,6 +16,9 @@ Here are some ideas to get you started:
             <td>
                 <a href="https://www.instagram.com/drjaminchen/">Instagram</a>
             </td>
+            <td>
+                <a href="https://www.zhihu.com/people/xiamingc/posts">知乎</a>
+            </td>
         </tr>
     </tbody>
 </table>
