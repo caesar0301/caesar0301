@@ -27,3 +27,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: chenxm35@gmail.com
 - ⚡ Fun fact: deeply thinking about and engineering on general knowledge computing theory.
 - 🌱 Trying to conquer the intelligence magic land
+- 📓 [Scholar papers](https://scholar.google.com/citations?user=9GzdwPEAAAAJ) and my [Ph.D dissertation](https://github.com/caesar0301/phd-dissertation)
