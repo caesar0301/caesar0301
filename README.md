@@ -23,7 +23,7 @@ Here are some ideas to get you started:
     </tbody>
 </table>
 
-- 🔭 I’m currently working on [HydronMind community](https://github.com/orgs/HydronMind)
+- 🔭 I’m currently working on [HadronMind community](https://github.com/orgs/HadronMind)
 - 🌱 I’m currently learning Logic programming and related theories.
 - 👯 I’m looking to collaborate on [Awesome Data community](https://github.com/awesomedata) [[Slack channel](https://awesomedataworld.slack.com)]
 - 💬 Ask me about topics on data mining, behavior informatics, several programming lang.
