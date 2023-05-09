@@ -1,17 +1,26 @@
-## Hi there, it's Dr. Jamin Chen 👋
+## Jamin X. Chen's Git Page 👋
 
-Here are some ideas to get you started:
+
+- 🔭 I’m currently working on [HadronMind community](https://github.com/orgs/HadronMind)
+- 🌱 I’m currently learning Logic programming and related theories.
+- 👯 I’m looking to collaborate on [Awesome Data community](https://github.com/awesomedata) [[Slack channel](https://awesomedataworld.slack.com)]
+- 💬 Ask me about topics on data mining, behavior informatics, several programming lang.
+- ⚡ Fun fact: deeply thinking about and engineering on general knowledge computing theory.
+- 🌱 Trying to conquer the intelligence magic land
+- 📓 [Scholar papers](https://scholar.google.com/citations?user=9GzdwPEAAAAJ) and my [Ph.D dissertation](https://github.com/caesar0301/phd-dissertation)
+- 📫 How to reach me: chenxm35@gmail.com
+
 <table>
     <tbody>
         <tr>
             <td>
-                <a href="https://www.linkedin.com/in/xiamingc">Linkedin profile</a>
-            </td>
-            <td>
-                <a href="https://xiaming.site/">My Blog</a>
+                <a href="https://xiaming.site/">Blogs</a>
             </td>
             <td>
                 <a href="https://www.twitter.com/DrJaminChen/">Twitter</a>
+            </td>
+            <td>
+                <a href="https://www.linkedin.com/in/xiamingc">Linkedin profile</a>
             </td>
             <td>
                 <a href="https://www.instagram.com/drjaminchen/">Instagram</a>
@@ -22,12 +31,3 @@ Here are some ideas to get you started:
         </tr>
     </tbody>
 </table>
-
-- 🔭 I’m currently working on [HadronMind community](https://github.com/orgs/HadronMind)
-- 🌱 I’m currently learning Logic programming and related theories.
-- 👯 I’m looking to collaborate on [Awesome Data community](https://github.com/awesomedata) [[Slack channel](https://awesomedataworld.slack.com)]
-- 💬 Ask me about topics on data mining, behavior informatics, several programming lang.
-- ⚡ Fun fact: deeply thinking about and engineering on general knowledge computing theory.
-- 🌱 Trying to conquer the intelligence magic land
-- 📓 [Scholar papers](https://scholar.google.com/citations?user=9GzdwPEAAAAJ) and my [Ph.D dissertation](https://github.com/caesar0301/phd-dissertation)
-- 📫 How to reach me: chenxm35@gmail.com
