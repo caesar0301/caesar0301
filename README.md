@@ -1,12 +1,10 @@
 ## Jamin X. Chen's Git Page 👋
 
 
-- 🔭 I’m currently working on [HadronMind community](https://github.com/orgs/HadronMind)
-- 🌱 I’m currently learning Logic programming and related theories.
+- 🔭 I’m currently working on [HadronMind community](https://github.com/orgs/HadronMind) and [Project Sapientia](http://xiaming.site/projects/project-sapientia/)
 - 👯 I’m looking to collaborate on [Awesome Data community](https://github.com/awesomedata) [[Slack channel](https://awesomedataworld.slack.com)]
 - 💬 Ask me about topics on data mining, behavior informatics, several programming lang.
 - ⚡ Fun fact: deeply thinking about and engineering on general knowledge computing theory.
-- 🌱 Trying to conquer the intelligence magic land
 - 📓 [Scholar papers](https://scholar.google.com/citations?user=9GzdwPEAAAAJ) and my [Ph.D dissertation](https://github.com/caesar0301/phd-dissertation)
 - 📫 How to reach me: chenxm35@gmail.com
 
