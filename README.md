@@ -6,7 +6,6 @@
 - 💬 Ask me about topics on data mining, behavior informatics, several programming lang.
 - ⚡ Fun fact: deeply thinking about and engineering on general knowledge computing theory.
 - 📓 [Scholar papers](https://scholar.google.com/citations?user=9GzdwPEAAAAJ) and my [Ph.D dissertation](https://github.com/caesar0301/phd-dissertation)
-- 📫 How to reach me: chenxm35@gmail.com
 
 <table>
     <tbody>
