@@ -1,4 +1,4 @@
-- 🔭 I’m currently working on [λCogito](https://github.com/lambdacogito) and [Project Sapientia](http://xiaming.site/projects/project-sapientia/)
+- 🔭 I’m currently working on [λCogito](https://github.com/lambdacogito) and [SWCLOS](https://github.com/SWCLOS)
 - 👯 I’m looking to collaborate on [Awesome Data community](https://github.com/awesomedata) [[Slack channel](https://awesomedataworld.slack.com)]
 - 💬 Ask me about topics on data mining, behavior informatics, several programming lang.
 - ⚡ Fun fact: deeply thinking about and engineering on general knowledge computing theory.
