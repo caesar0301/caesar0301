@@ -1,4 +1,4 @@
-- 🔭 I’m currently working on [λCogito](https://github.com/lambdacogito) and [SWCLOS](https://github.com/SWCLOS) communities.
+- 🔭 I’m currently working on [λCogLab](https://github.com/lambdacogito) and [SWCLOS](https://github.com/SWCLOS) communities.
 - 👯 I’m looking to collaborate on [Awesome Data community](https://github.com/awesomedata) [[Slack channel](https://awesomedataworld.slack.com)]
 - 💬 Ask me about topics on Data Mining, Behavior Informatics and programming in C++/Python/Java/R/Lisp/Go.
 - ⚡ Fun fact: deeply thinking about and engineering on general knowledge computing theory.
