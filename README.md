@@ -24,6 +24,6 @@
 ### 📈 Repo & Code Trends
 
 <div align="center">
-  <img src="https://api.githubtrends.io/user/svg/caesar0301/repos?time_range=one_year&group=other&theme=bright_lights" width="48%" />
-  <img src="https://api.githubtrends.io/user/svg/caesar0301/langs?time_range=one_year&loc_metric=changed&compact=True&theme=bright_lights" width="48%" />
+  <img src="https://api.githubtrends.io/user/svg/caesar0301/repos?time_range=one_year&group=other&theme=classic" width="35%" />
+  <img src="https://api.githubtrends.io/user/svg/caesar0301/langs?time_range=one_year&theme=classic" width="35%" />
 </div>
