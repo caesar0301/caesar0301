@@ -1,9 +1,29 @@
-- 🔭 I’m currently working on [λCogLab](https://github.com/lambdacogito) and [SWCLOS](https://github.com/SWCLOS) communities.
-- 👯 I’m looking to collaborate on [Awesome Data community](https://github.com/awesomedata) [[Slack channel](https://awesomedataworld.slack.com)]
-- ⚡ Fun fact: research and engineer on cognitive computing.
-- 📓 [Scholar papers](https://scholar.google.com/citations?user=9GzdwPEAAAAJ) and my [Ph.D dissertation](https://github.com/caesar0301/phd-dissertation)
+## 👋 Hi there, I'm Xiaming Chen
 
-![gitHub stats](https://github-readme-stats.vercel.app/api?username=caesar0301&show_icons=true&theme=transparent)
+### 🔬 What I'm Working On
+- 🚀 Currently contributing to the **[λCogLab](https://github.com/lambdacogito)** and **[SWCLOS](https://github.com/SWCLOS)** communities.
 
-![repo states](https://api.githubtrends.io/user/svg/caesar0301/repos?time_range=one_year&group=other&theme=bright_lights)
-![loc stats](https://api.githubtrends.io/user/svg/caesar0301/langs?time_range=one_year&loc_metric=changed&compact=True&theme=bright_lights)
+### 🤝 Collaboration & Community
+- 🤝 Looking to collaborate via the **[Awesome Data community](https://github.com/awesomedata)**  
+  👉 Join us on [Slack](https://awesomedataworld.slack.com)
+
+### 🧠 About Me
+- ⚡ Fun fact: I research and engineer systems in **cognitive computing** and AI-inspired reasoning.
+- 📓 Read my [scholar papers](https://scholar.google.com/citations?user=9GzdwPEAAAAJ) and my [Ph.D. dissertation](https://github.com/caesar0301/phd-dissertation)
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=caesar0301&show_icons=true&theme=transparent" width="50%" />
+</div>
+
+---
+
+### 📈 Repo & Code Trends
+
+<div align="center">
+  <img src="https://api.githubtrends.io/user/svg/caesar0301/repos?time_range=one_year&group=other&theme=bright_lights" width="48%" />
+  <img src="https://api.githubtrends.io/user/svg/caesar0301/langs?time_range=one_year&loc_metric=changed&compact=True&theme=bright_lights" width="48%" />
+</div>
