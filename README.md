@@ -9,7 +9,7 @@
 
 ### 🧠 About Me
 - ⚡ Fun fact: I research and engineer systems in **cognitive computing** and AI-inspired reasoning.
-- 📓 Read my [scholar papers](https://scholar.google.com/citations?user=9GzdwPEAAAAJ) and my [Ph.D. dissertation](https://github.com/caesar0301/phd-dissertation)
+- 📓 Read my [blogs](https://www.xiaming.site), [publications](https://scholar.google.com/citations?user=9GzdwPEAAAAJ) and my [Ph.D. dissertation](https://github.com/caesar0301/phd-dissertation)
 
 ---
 
