@@ -2,6 +2,7 @@
 
 ### 🔬 What I'm Working On
 - 🚀 Currently contributing to the **[λCogLab](https://github.com/lambdacogito)** and **[SWCLOS](https://github.com/SWCLOS)** communities.
+- 🚀 Agentic ingredient blocks of multi-agent systems (MAS): **[Cogents](https://github.com/caesar0301/cogents)**
 
 ### 🤝 Collaboration & Community
 - 🤝 Looking to collaborate via the **[Awesome Data community](https://github.com/awesomedata)**  
