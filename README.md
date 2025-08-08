@@ -10,6 +10,10 @@
 
 A researcher and engineer focused on **cognitive computation**, **reasoning systems**, and **multi-agent architectures**. I enjoy bridging neural and symbolic AI, and designing composable, interpretable agents. 📚 Writer of [blogs](https://www.xiaming.site), [papers](https://scholar.google.com/citations?user=9GzdwPEAAAAJ), and a [Ph.D. dissertation](https://github.com/caesar0301/phd-dissertation).
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=caesar0301&show_icons=true&theme=transparent" width="50%" />
+</div>
+
 ## 🛠️ Featured Projects & Contributions
 
 - 🧠 [**Cogents**](https://github.com/caesar0301/cogents): Modular building blocks for constructing agentic behaviors in multi-agent systems.
@@ -31,16 +35,6 @@ A researcher and engineer focused on **cognitive computation**, **reasoning syst
 - 🧪 Collaborating with the **[λCogLab](https://github.com/lacogitolab)** research group.
 
 - 🤝 Initiator of the **[Awesome Data](https://github.com/awesomedata)** community. 👉 Join the conversation on [Slack](https://awesomedataworld.slack.com).
-  
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=caesar0301&show_icons=true&theme=transparent" width="50%" />
-</div>
-
-### 📈 Repo & Code Trends
 
 <div align="center">
   <img src="https://api.githubtrends.io/user/svg/caesar0301/repos?time_range=one_year&group=other&theme=classic" width="35%" />
