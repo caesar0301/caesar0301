@@ -1,8 +1,7 @@
 ## 📰 Latest Updates
 
-- ✨ [Aug 2025] Launched agentic ingredient blocks for multi-agent systems: [Project Cogents](https://github.com/caesar0301/cogents) and [a talk](https://github.com/caesar0301/mas-talk-2508)
-- ✨ [Aug 2025] Launched a personal academic research agent: [alithia-researcher](https://github.com/caesar0301/alithia-researcher)
-- 🤖 [July 2025] Actively contributing to [λCogLab](https://github.com/lacogitolab) and [SWCLOS](https://github.com/SWCLOS)
+- 🤖 [Aug 2025] Launched a personal academic research agent: [alithia-researcher](https://github.com/caesar0301/alithia-researcher)
+- ✨ [July 2025] Launched agentic ingredient blocks for multi-agent systems: [Project Cogents](https://github.com/caesar0301/cogents) and [a talk](https://github.com/caesar0301/mas-talk-2508)
 
 ---
 
@@ -32,7 +31,7 @@ A researcher and engineer focused on **cognitive computation**, **reasoning syst
 
 ## 🌐 Community & Collaboration
 
-- 🧪 Collaborating with the **[λCogLab](https://github.com/lacogitolab)** research group.
+- 🧪 Collaborating with the **[λCogLab](https://github.com/lacogitolab)** research group and [SWCLOS](https://github.com/SWCLOS) community.
 
 - 🤝 Initiator of the **[Awesome Data](https://github.com/awesomedata)** community. 👉 Join the conversation on [Slack](https://awesomedataworld.slack.com).
 
