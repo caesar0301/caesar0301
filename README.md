@@ -1,7 +1,7 @@
 ## 📰 Latest Updates
 
 - ✨ [Aug 2025] Launched agentic ingredient blocks for multi-agent systems: [Project Cogents](https://github.com/caesar0301/cogents) and [a talk](https://github.com/caesar0301/mas-talk-2508)
-- ✨ [Aug 2025] Launched A personal academic research agent: [alithia-researcher](https://github.com/caesar0301/alithia-researcher)
+- ✨ [Aug 2025] Launched a personal academic research agent: [alithia-researcher](https://github.com/caesar0301/alithia-researcher)
 - 🤖 [July 2025] Actively contributing to [λCogLab](https://github.com/lacogitolab) and [SWCLOS](https://github.com/SWCLOS)
 
 ---
