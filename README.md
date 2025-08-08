@@ -1,17 +1,37 @@
-## 👋 Hi there, I'm Xiaming Chen
+## 📰 Latest Updates
 
-### 🔬 What I'm Working On
-- 🚀 Currently contributing to the **[λCogLab](https://github.com/lambdacogito)** and **[SWCLOS](https://github.com/SWCLOS)** communities.
-- 🚀 Agentic ingredient blocks of multi-agent systems (MAS): **[Cogents](https://github.com/caesar0301/cogents)**
+- ✨ [Aug 2025] Launched agentic ingredient blocks for multi-agent systems: [Project Cogents](https://github.com/caesar0301/cogents) and [a talk](https://github.com/caesar0301/mas-talk-2508)
+- ✨ [Aug 2025] Launched A personal academic research agent: [alithia-researcher](https://github.com/caesar0301/alithia-researcher)
+- 🤖 [July 2025] Actively contributing to [λCogLab](https://github.com/lacogitolab) and [SWCLOS](https://github.com/SWCLOS)
 
-### 🤝 Collaboration & Community
-- 🤝 Looking to collaborate via the **[Awesome Data community](https://github.com/awesomedata)**  
-  👉 Join us on [Slack](https://awesomedataworld.slack.com)
+---
 
-### 🧠 About Me
-- ⚡ Fun fact: I research and engineer systems in **cognitive computing** and AI-inspired reasoning.
-- 📓 Read my [blogs](https://www.xiaming.site), [publications](https://scholar.google.com/citations?user=9GzdwPEAAAAJ) and my [Ph.D. dissertation](https://github.com/caesar0301/phd-dissertation)
+## 👋 Hi, I'm Xiaming Chen
 
+A researcher and engineer focused on **cognitive computation**, **reasoning systems**, and **multi-agent architectures**. I enjoy bridging neural and symbolic AI, and designing composable, interpretable agents. 📚 Writer of [blogs](https://www.xiaming.site), [papers](https://scholar.google.com/citations?user=9GzdwPEAAAAJ), and a [Ph.D. dissertation](https://github.com/caesar0301/phd-dissertation).
+
+## 🛠️ Featured Projects & Contributions
+
+- 🧠 [**Cogents**](https://github.com/caesar0301/cogents): Modular building blocks for constructing agentic behaviors in multi-agent systems.
+
+- 🧱 [**treelib**](https://github.com/caesar0301/treelib): Efficient, pure Python implementation of tree data structures—widely used for hierarchical modeling and algorithmic workflows.
+
+- 🔗 [**graphsim**](https://github.com/caesar0301/graphsim): A collection of graph similarity algorithms built on NetworkX for graph mining and structural comparisons.
+
+- 🧵 [**http-sniffer**](https://github.com/caesar0301/http-sniffer): Multi-threaded PCAP analyzer that extracts HTTP headers and TCP flow metadata into JSON—ideal for offline traffic inspection.
+
+- 📦 [**pkt2flow**](https://github.com/caesar0301/pkt2flow): Lightweight tool to split packet captures into 4-tuple flow-level files—cross-platform, minimalistic, and reassembly-free.
+
+- 🗺️ [**movr**](https://github.com/caesar0301/movr): R package for analyzing and visualizing spatio-temporal human mobility patterns with transformation and visualization utilities.
+
+- 🌐 [**s2g**](https://github.com/caesar0301/s2g): Converts shapefiles into graph structures using NetworkX—bridging GIS data with network analysis libraries.
+
+## 🌐 Community & Collaboration
+
+- 🧪 Collaborating with the **[λCogLab](https://github.com/lacogitolab)** research group.
+
+- 🤝 Initiator of the **[Awesome Data](https://github.com/awesomedata)** community. 👉 Join the conversation on [Slack](https://awesomedataworld.slack.com).
+  
 ---
 
 ### 📊 GitHub Stats
@@ -19,8 +39,6 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=caesar0301&show_icons=true&theme=transparent" width="50%" />
 </div>
-
----
 
 ### 📈 Repo & Code Trends
 
