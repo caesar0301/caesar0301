@@ -15,7 +15,7 @@ A researcher and engineer focused on **cognitive computation**, **reasoning syst
 
 ## 🛠️ Featured Projects & Contributions
 
-- 🧠 [**Cogents**](https://github.com/caesar0301/cogents): Modular building blocks for constructing agentic behaviors in multi-agent systems.
+- 🧠 [**cogents**](https://github.com/caesar0301/cogents): Modular building blocks for constructing agentic behaviors in multi-agent systems.
 
 - 🧱 [**treelib**](https://github.com/caesar0301/treelib): Efficient, pure Python implementation of tree data structures—widely used for hierarchical modeling and algorithmic workflows.
 
