@@ -1,7 +1,7 @@
 ## 📰 Latest Updates
 
 - ✨ [Aug 2025] Launched agentic ingredient blocks for multi-agent systems: [Project Cogents](https://github.com/caesar0301/cogents) and [a talk](https://github.com/caesar0301/mas-talk-2508)
-- 🤖 [Jul 2025] Launched a personal academic research agent: [alithia-researcher](https://github.com/caesar0301/alithia-researcher)
+- 🤖 [Jul 2025] Launched a personal academic research agent: [alithia-voyager](https://github.com/caesar0301/alithia-voyager)
 
 ---
 
