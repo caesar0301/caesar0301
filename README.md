@@ -1,6 +1,6 @@
 ## 📰 Latest Updates
 
-- ✨ [Aug 2025] Launched agentic ingredient blocks for multi-agent systems: [Project Cogents](https://github.com/mirasurf/cogents) and [a talk](https://github.com/caesar0301/mas-talk-2508)
+- ✨ [Aug 2025] Launched agentic ingredient blocks for multi-agent systems: [Project Cogents](https://github.com/caesar0301/cogents-core) and [a talk](https://github.com/caesar0301/mas-talk-2508)
 - 🤖 [Jul 2025] Launched a personal academic research agent: [alithia-voyager](https://github.com/caesar0301/alithia-voyager)
 
 ---
@@ -15,7 +15,7 @@ A researcher and engineer focused on **cognitive computation**, **reasoning syst
 
 ## 🛠️ Featured Projects & Contributions
 
-- 🧠 [**cogents**](https://github.com/mirasurf/cogents): Modular building blocks for constructing agentic behaviors in multi-agent systems.
+- 🧠 [**cogents-core**](https://github.com/caesar0301/cogents-core): Modular building blocks for constructing agentic behaviors in multi-agent systems.
 
 - 🧱 [**treelib**](https://github.com/caesar0301/treelib): Efficient, pure Python implementation of tree data structures—widely used for hierarchical modeling and algorithmic workflows.
 
