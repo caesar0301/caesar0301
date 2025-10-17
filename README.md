@@ -1,6 +1,6 @@
 ## 📰 Latest Updates
 
-- ✨ [Aug 2025] Launched agentic ingredient blocks for multi-agent systems: [Project Cogents](https://github.com/caesar0301/cogents-core) and [a talk](https://github.com/caesar0301/mas-talk-2508)
+- ✨ [Aug 2025] Launched agentic ingredient blocks for multi-agent systems: [Project Cogents](https://github.com/caesar0301/COGENTS)
 - 🤖 [Jul 2025] Launched a personal academic research agent: [alithia-voyager](https://github.com/caesar0301/alithia-voyager)
 
 ---
@@ -11,14 +11,18 @@ A researcher and engineer focused on **cognitive computation**, **reasoning syst
 
 ## 🛠️ Featured Projects & Contributions
 
-- 🧠 [**wizsearch**](https://github.com/caesar0301/wizsearch): A unified Python library for searching across multiple search engines with a consistent interface.
-- 🧠 [**cogents-core**](https://github.com/caesar0301/cogents-core): Modular building blocks for constructing agentic behaviors in multi-agent systems.
-- 🧠 [**cogents-smith**](https://github.com/caesar0301/cogents-smith): A common repo of toolkits for cognitive agents (COGENTS).
+- 🧠 [**COGENTS**](https://github.com/caesar0301/COGENTS): Towards a cognitive agentic AI system with modular design.
+
 - 🧱 [**treelib**](https://github.com/caesar0301/treelib): Efficient, pure Python implementation of tree data structures—widely used for hierarchical modeling and algorithmic workflows.
+
 - 🔗 [**graphsim**](https://github.com/caesar0301/graphsim): A collection of graph similarity algorithms built on NetworkX for graph mining and structural comparisons.
+
 - 🧵 [**http-sniffer**](https://github.com/caesar0301/http-sniffer): Multi-threaded PCAP analyzer that extracts HTTP headers and TCP flow metadata into JSON—ideal for offline traffic inspection.
+
 - 📦 [**pkt2flow**](https://github.com/caesar0301/pkt2flow): Lightweight tool to split packet captures into 4-tuple flow-level files—cross-platform, minimalistic, and reassembly-free.
+
 - 🗺️ [**movr**](https://github.com/caesar0301/movr): R package for analyzing and visualizing spatio-temporal human mobility patterns with transformation and visualization utilities.
+
 - 🌐 [**s2g**](https://github.com/caesar0301/s2g): Converts shapefiles into graph structures using NetworkX—bridging GIS data with network analysis libraries.
 
 ## 🌐 Community & Collaboration
