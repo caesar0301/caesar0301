@@ -1,6 +1,6 @@
 ## 📰 Latest Updates
 
-- ✨ [Aug 2025] Launched agentic ingredient blocks for multi-agent systems: [Project Cogents](https://github.com/caesar0301/COGENTS)
+- ✨ [Oct 2025] Start working on CogentMem for trustable and evolving AI system.
 - 🤖 [Jul 2025] Launched a personal academic research agent: [alithia](https://github.com/caesar0301/alithia)
 
 ---
