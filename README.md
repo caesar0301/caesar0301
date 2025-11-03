@@ -7,7 +7,7 @@
 
 ## 👋 Hi, I'm Xiaming Chen
 
-A researcher and engineer focused on **cognitive computation**, **reasoning systems**, and **multi-agent architectures**. I enjoy bridging neural and symbolic AI, and designing composable, interpretable agents. 📚 Writer of [blogs](https://www.xiaming.site), [papers](https://scholar.google.com/citations?user=9GzdwPEAAAAJ), and a [Ph.D. dissertation](https://github.com/caesar0301/phd-dissertation).
+An independent researcher focusing on **cognitive computation**, **reasoning systems**, and **multi-agent systems**. I enjoy bridging neural and symbolic AI, and researching on the fundamental mechanisms of intelligence such as memorization, reasoning, continual learning etc. 📚 Also writer of [blogs](https://www.xiaming.site), [papers](https://scholar.google.com/citations?user=9GzdwPEAAAAJ), and a [Ph.D. dissertation](https://github.com/caesar0301/phd-dissertation).
 
 ## 🛠️ Featured Projects & Contributions
 
