@@ -11,7 +11,7 @@ An independent researcher focusing on **cognitive computation**, **reasoning sys
 
 ## 🛠️ Featured Projects & Contributions
 
-- 🧠 [**cogents**](https://github.com/caesar0301/COGENTS): Towards a cognitive agentic AI system with modular design.
+- 🧠 [**cogents**](https://www.xiaming.site/2025/08/30/project-cogents/): Towards a cognitive agentic AI system with modular design.
 
 - 🧱 [**treelib**](https://github.com/caesar0301/treelib): Efficient, pure Python implementation of tree data structures—widely used for hierarchical modeling and algorithmic workflows.
 
