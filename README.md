@@ -1,5 +1,6 @@
 ## 📰 Latest Updates
 
+- ✨ [Jan 2026] Start working on rust-native hypergraph-oriented knowledge engine [Grism](https://github.com/mirasoth/Grism).
 - ✨ [Oct 2025] Start working on CogentMem for trustable and evolving AI system.
 - 🤖 [Jul 2025] Launched a personal academic research agent: [alithia](https://github.com/caesar0301/alithia)
 
