@@ -14,15 +14,15 @@ An independent researcher focusing on **cognitive computation**, **reasoning sys
 
 - 🧠 [**cogents**](https://www.xiaming.site/2025/08/30/project-cogents/): Towards a cognitive agentic AI system with modular design.
 
-- 🧱 [**treelib**](https://github.com/caesar0301/treelib): Efficient, pure Python implementation of tree data structures—widely used for hierarchical modeling and algorithmic workflows.
+- 🧱 [**treelib**](https://github.com/caesar0301/treelib): Efficient Python implementation of tree data structures—widely used for hierarchical modeling and algorithms.
 
 - 🔗 [**graphsim**](https://github.com/caesar0301/graphsim): A collection of graph similarity algorithms built on NetworkX for graph mining and structural comparisons.
 
-- 🧵 [**http-sniffer**](https://github.com/caesar0301/http-sniffer): Multi-threaded PCAP analyzer that extracts HTTP headers and TCP flow metadata into JSON—ideal for offline traffic inspection.
+- 🧵 [**http-sniffer**](https://github.com/caesar0301/http-sniffer): Multi-threaded PCAP analyzer that extracts HTTP headers and TCP flow metadata into JSON for traffic inspection.
 
-- 📦 [**pkt2flow**](https://github.com/caesar0301/pkt2flow): Lightweight tool to split packet captures into 4-tuple flow-level files—cross-platform, minimalistic, and reassembly-free.
+- 📦 [**pkt2flow**](https://github.com/caesar0301/pkt2flow): Lightweight tool to split packet captures into 4-tuple flow-level files, minimalistic and reassembly-free.
 
-- 🗺️ [**movr**](https://github.com/caesar0301/movr): R package for analyzing and visualizing spatio-temporal human mobility patterns with transformation and visualization utilities.
+- 🗺️ [**movr**](https://github.com/caesar0301/movr): R package for analyzing and visualizing spatio-temporal human mobility patterns.
 
 - 🌐 [**s2g**](https://github.com/caesar0301/s2g): Converts shapefiles into graph structures using NetworkX—bridging GIS data with network analysis libraries.
 
