@@ -1,6 +1,7 @@
 ## 📰 Latest Updates
 
 - ✨ [Jan 2026] Start working on rust-native hypergraph-oriented knowledge engine [Grism](https://github.com/mirasoth/Grism).
+- ✨ [Jan 2026] Propose practical development AI agentic skills, [Platonic Coding](https://www.xiaming.site/2026/02/06/platonic-coding/)
 - ✨ [Oct 2025] Start working on CogentMem for trustable and evolving AI system.
 - 🤖 [Jul 2025] Launched a personal academic research agent: [Alithia](https://github.com/caesar0301/alithia)
 
