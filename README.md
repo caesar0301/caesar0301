@@ -18,17 +18,17 @@ An independent researcher focusing on **cognitive computation**, **reasoning sys
 
 - 📦 [**awesome-public-datasets**](https://github.com/awesomedata/awesome-public-datasets): A list of topic-centric public data sources in high quality.![GitHub Stars](https://img.shields.io/github/stars/awesomedata/awesome-public-datasets)
 
-- 🧱 [**treelib**](https://github.com/caesar0301/treelib): Efficient Python implementation of tree data structures—widely used for hierarchical modeling and algorithms.![GitHub Stars](https://img.shields.io/github/stars/caesar0301/treelib)
+- 🧱 [**treelib**](https://github.com/caesar0301/treelib): Efficient Python implementation of tree data structures.![GitHub Stars](https://img.shields.io/github/stars/caesar0301/treelib)
 
-- 🔗 [**graphsim**](https://github.com/caesar0301/graphsim): A collection of graph similarity algorithms built on NetworkX for graph mining and structural comparisons.![GitHub Stars](https://img.shields.io/github/stars/caesar0301/graphsim)
+- 🔗 [**graphsim**](https://github.com/caesar0301/graphsim): A collection of graph similarity algorithms for graph mining.![GitHub Stars](https://img.shields.io/github/stars/caesar0301/graphsim)
 
-- 🧵 [**http-sniffer**](https://github.com/caesar0301/http-sniffer): Multi-threaded PCAP analyzer that extracts HTTP/TCP metadata for traffic inspection.![GitHub Stars](https://img.shields.io/github/stars/caesar0301/http-sniffer)
+- 🧵 [**http-sniffer**](https://github.com/caesar0301/http-sniffer): Multi-threaded PCAP analyzer for traffic inspection.![GitHub Stars](https://img.shields.io/github/stars/caesar0301/http-sniffer)
 
-- 📦 [**pkt2flow**](https://github.com/caesar0301/pkt2flow): Lightweight tool to split packet captures into 4-tuple flow-level files, minimalistic and reassembly-free.![GitHub Stars](https://img.shields.io/github/stars/caesar0301/pkt2flow)
+- 📦 [**pkt2flow**](https://github.com/caesar0301/pkt2flow): Lightweight tool to split packet captures into 4-tuple flow-level files.![GitHub Stars](https://img.shields.io/github/stars/caesar0301/pkt2flow)
 
 - 🗺️ [**movr**](https://github.com/caesar0301/movr): R package for analyzing and visualizing spatio-temporal human mobility patterns.![GitHub Stars](https://img.shields.io/github/stars/caesar0301/movr)
 
-- 🌐 [**s2g**](https://github.com/caesar0301/s2g): Converts shapefiles into graph structures using NetworkX—bridging GIS data with network analysis libraries.![GitHub Stars](https://img.shields.io/github/stars/caesar0301/s2g)
+- 🌐 [**s2g**](https://github.com/caesar0301/s2g): Converts shapefiles into graph structures bridging GIS with network analysis libraries.![GitHub Stars](https://img.shields.io/github/stars/caesar0301/s2g)
 
 ## 🌐 Community & Collaboration
 
