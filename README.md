@@ -34,7 +34,3 @@ An independent researcher focusing on **cognitive computation**, **reasoning sys
 
 - 🧪 Collaborating with the [λCogLab](https://github.com/lacogitolab) research group and [SWCLOS](https://github.com/SWCLOS) community.
 - 🤝 Initiator of the [Awesome Data](https://github.com/awesomedata) community. 👉 Join the conversation on [Slack](https://awesomedataworld.slack.com).
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=caesar0301&show_icons=true&theme=transparent" width="50%" />
-</div>
