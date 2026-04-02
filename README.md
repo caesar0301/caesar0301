@@ -1,8 +1,7 @@
 ## 📰 Latest Updates
 
+- ✨ [Mar 2026] Spec-driven skill [Platonic Coding](https://www.xiaming.site/2026/02/06/platonic-coding/) published on [ClawHub](https://clawhub.ai/caesar0301/platonic-coding).
 - ✨ [Jan 2026] Start working on rust-native hypergraph-oriented knowledge engine [Grism](https://github.com/mirasoth/Grism).
-- ✨ [Jan 2026] Propose practical development AI agentic skills, [Platonic Coding](https://www.xiaming.site/2026/02/06/platonic-coding/)
-- ✨ [Oct 2025] Start working on CogentMem for trustable and evolving AI system.
 - 🤖 [Jul 2025] Launched a personal academic research agent: [Alithia](https://github.com/caesar0301/alithia)
 
 ---
@@ -13,7 +12,9 @@ An independent researcher focusing on **cognitive computation**, **reasoning sys
 
 ## 🛠️ Featured Projects & Contributions
 
-- 🧠 [**cogents**](https://www.xiaming.site/2025/08/30/project-cogents/): Towards a cognitive agentic AI system with modular design.
+- 🧠 [**soothe**](https://github.com/caesar0301/soothe): Harness 24/7 Autonomous AI Agent that Plans, Acts, and Delivers Results.
+
+- 🧠 [**noesium**](https://github.com/mirasoth/noesium): Towards a cognitive agentic AI system with modular design.
 
 - 🧱 [**treelib**](https://github.com/caesar0301/treelib): Efficient Python implementation of tree data structures—widely used for hierarchical modeling and algorithms.
 
