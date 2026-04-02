@@ -12,21 +12,23 @@ An independent researcher focusing on **cognitive computation**, **reasoning sys
 
 ## 🛠️ Featured Projects & Contributions
 
-- 🧠 [**soothe**](https://github.com/caesar0301/soothe): Harness 24/7 Autonomous AI Agent that Plans, Acts, and Delivers Results.
+- 🧠 [**soothe**](https://github.com/caesar0301/soothe): Harness 24/7 Autonomous AI Agent that Plans, Acts, and Delivers Results.![GitHub Stars](https://img.shields.io/github/stars/caesar0301/soothe)
 
-- 🧠 [**noesium**](https://github.com/mirasoth/noesium): Towards a cognitive agentic AI system with modular design.
+- 🧠 [**noesium**](https://github.com/mirasoth/noesium): Towards a cognitive agentic AI system with modular design.![GitHub Stars](https://img.shields.io/github/stars/mirasoth/noesium)
 
-- 🧱 [**treelib**](https://github.com/caesar0301/treelib): Efficient Python implementation of tree data structures—widely used for hierarchical modeling and algorithms.
+- 📦 [**awesome-public-datasets**](https://github.com/awesomedata/awesome-public-datasets): A list of topic-centric public data sources in high quality.![GitHub Stars](https://img.shields.io/github/stars/awesomedata/awesome-public-datasets)
 
-- 🔗 [**graphsim**](https://github.com/caesar0301/graphsim): A collection of graph similarity algorithms built on NetworkX for graph mining and structural comparisons.
+- 🧱 [**treelib**](https://github.com/caesar0301/treelib): Efficient Python implementation of tree data structures—widely used for hierarchical modeling and algorithms.![GitHub Stars](https://img.shields.io/github/stars/caesar0301/treelib)
 
-- 🧵 [**http-sniffer**](https://github.com/caesar0301/http-sniffer): Multi-threaded PCAP analyzer that extracts HTTP/TCP metadata for traffic inspection.
+- 🔗 [**graphsim**](https://github.com/caesar0301/graphsim): A collection of graph similarity algorithms built on NetworkX for graph mining and structural comparisons.![GitHub Stars](https://img.shields.io/github/stars/caesar0301/graphsim)
 
-- 📦 [**pkt2flow**](https://github.com/caesar0301/pkt2flow): Lightweight tool to split packet captures into 4-tuple flow-level files, minimalistic and reassembly-free.
+- 🧵 [**http-sniffer**](https://github.com/caesar0301/http-sniffer): Multi-threaded PCAP analyzer that extracts HTTP/TCP metadata for traffic inspection.![GitHub Stars](https://img.shields.io/github/stars/caesar0301/http-sniffer)
 
-- 🗺️ [**movr**](https://github.com/caesar0301/movr): R package for analyzing and visualizing spatio-temporal human mobility patterns.
+- 📦 [**pkt2flow**](https://github.com/caesar0301/pkt2flow): Lightweight tool to split packet captures into 4-tuple flow-level files, minimalistic and reassembly-free.![GitHub Stars](https://img.shields.io/github/stars/caesar0301/pkt2flow)
 
-- 🌐 [**s2g**](https://github.com/caesar0301/s2g): Converts shapefiles into graph structures using NetworkX—bridging GIS data with network analysis libraries.
+- 🗺️ [**movr**](https://github.com/caesar0301/movr): R package for analyzing and visualizing spatio-temporal human mobility patterns.![GitHub Stars](https://img.shields.io/github/stars/caesar0301/movr)
+
+- 🌐 [**s2g**](https://github.com/caesar0301/s2g): Converts shapefiles into graph structures using NetworkX—bridging GIS data with network analysis libraries.![GitHub Stars](https://img.shields.io/github/stars/caesar0301/s2g)
 
 ## 🌐 Community & Collaboration
 
