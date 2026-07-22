@@ -1,5 +1,6 @@
 ## 📰 Latest Updates
 
+- 🤖 [Jul 2026] Soothe agent series, core [nano agent](https://github.com/mirasoth/soothe-nano), full TUI [soothe code](https://github.com/mirasoth/soothe), [CLI headless](https://github.com/caesar0301/fj-ai) and more on the way.
 - ✨ [Mar 2026] Spec-driven skill [Platonic Coding](https://www.xiaming.site/2026/02/06/platonic-coding/) published on [ClawHub](https://clawhub.ai/caesar0301/platonic-coding).
 - ✨ [Jan 2026] Start working on rust-native hypergraph-oriented knowledge engine [Grism](https://github.com/mirasoth/Grism).
 - 🤖 [Jul 2025] Launched a personal academic research agent: [Alithia](https://github.com/caesar0301/alithia)
