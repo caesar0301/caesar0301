@@ -13,6 +13,8 @@ An independent researcher focusing on **cognitive computation**, **reasoning sys
 
 ## 🛠️ Featured Projects & Contributions
 
+- 🧠 [**flowjet-agent**](https://github.com/caesar0301/flowjet-agent): A headless full coding agent to make your life easy.![GitHub Stars](https://img.shields.io/github/stars/caesar0301/flowjet-agent)
+
 - 🧠 [**soothe**](https://github.com/caesar0301/soothe): Harness 24/7 Autonomous AI Agent that Plans, Acts, and Delivers Results.![GitHub Stars](https://img.shields.io/github/stars/caesar0301/soothe)
 
 - 🧠 [**noesium**](https://github.com/mirasoth/noesium): Towards a cognitive agentic AI system with modular design.![GitHub Stars](https://img.shields.io/github/stars/mirasoth/noesium)
