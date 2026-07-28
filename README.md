@@ -25,13 +25,13 @@ An independent researcher focusing on **cognitive computation**, **reasoning sys
 
 - 🔗 [**graphsim**](https://github.com/caesar0301/graphsim): A collection of graph similarity algorithms for graph mining.![GitHub Stars](https://img.shields.io/github/stars/caesar0301/graphsim)
 
-- 🧵 [**http-sniffer**](https://github.com/caesar0301/http-sniffer): Multi-threaded PCAP analyzer for traffic inspection.![GitHub Stars](https://img.shields.io/github/stars/caesar0301/http-sniffer)
-
-- 📦 [**pkt2flow**](https://github.com/caesar0301/pkt2flow): Lightweight tool to split packet captures into 4-tuple flow-level files.![GitHub Stars](https://img.shields.io/github/stars/caesar0301/pkt2flow)
-
 - 🗺️ [**movr**](https://github.com/caesar0301/movr): R package for analyzing and visualizing spatio-temporal human mobility patterns.![GitHub Stars](https://img.shields.io/github/stars/caesar0301/movr)
 
 - 🌐 [**s2g**](https://github.com/caesar0301/s2g): Converts shapefiles into graph structures bridging GIS with network analysis libraries.![GitHub Stars](https://img.shields.io/github/stars/caesar0301/s2g)
+
+- 🧵 [**http-sniffer**](https://github.com/caesar0301/http-sniffer): Multi-threaded PCAP analyzer for traffic inspection.![GitHub Stars](https://img.shields.io/github/stars/caesar0301/http-sniffer)
+
+- 📦 [**pkt2flow**](https://github.com/caesar0301/pkt2flow): Lightweight tool to split packet captures into 4-tuple flow-level files.![GitHub Stars](https://img.shields.io/github/stars/caesar0301/pkt2flow)
 
 ## 🌐 Community & Collaboration
 
