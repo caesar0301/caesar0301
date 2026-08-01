@@ -29,6 +29,8 @@ An independent researcher focusing on **cognitive computation**, **reasoning sys
 
 - 🌐 [**s2g**](https://github.com/caesar0301/s2g): Converts shapefiles into graph structures bridging GIS with network analysis libraries.![GitHub Stars](https://img.shields.io/github/stars/caesar0301/s2g)
 
+- 📦 [**awesome-pcaptools**](https://github.com/caesar0301/awesome-pcaptools): A collection of tools to process network traces.![GitHub Stars](https://img.shields.io/github/stars/caesar0301/awesome-pcaptools)
+
 - 🧵 [**http-sniffer**](https://github.com/caesar0301/http-sniffer): Multi-threaded PCAP analyzer for traffic inspection.![GitHub Stars](https://img.shields.io/github/stars/caesar0301/http-sniffer)
 
 - 📦 [**pkt2flow**](https://github.com/caesar0301/pkt2flow): Lightweight tool to split packet captures into 4-tuple flow-level files.![GitHub Stars](https://img.shields.io/github/stars/caesar0301/pkt2flow)
