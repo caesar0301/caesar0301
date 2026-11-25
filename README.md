@@ -1,5 +1,6 @@
 ## 📰 Latest Updates
 
+- ✨ [Nov 2026] Deep code review skill [oh-my-codereview](https://github.com/caesar0301/oh-my-codereview).
 - ✨ [Aug 2026] Deep academic research skill [oh-my-research](https://github.com/caesar0301/oh-my-research).
 - 🤖 [Jul 2026] Soothe agent series, core [nano agent](https://github.com/mirasoth/soothe-nano), full TUI [soothe code](https://github.com/mirasoth/soothe), [CLI headless](https://github.com/caesar0301/fj-ai) and more on the way.
 - ✨ [Mar 2026] Spec-driven skill [Platonic Coding](https://www.xiaming.site/2026/02/06/platonic-coding/) published on [ClawHub](https://clawhub.ai/caesar0301/platonic-coding).
